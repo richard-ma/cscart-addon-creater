@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<addon scheme='2.0'>
+    <id>{addon_id}</id>
+    <version>{addon_version}</version>
+    <name>{addon_name}</name>
+    <description>{addon_description}</description>
+    <priority>{addon_priority}</priority>
+
+    <!-- settings sample
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="some_prop">
+                        <name>enter any text</name>
+                        <type>input</type>
+                        <default_value>hello world!</default_value>
+                    </item>
+                    <item id="some_dropdown">
+                        <name>pick a value from the list</name>
+                        <type>selectbox</type>
+                        <default_value>blue</default_value>
+                            <variants>
+                                <item id="red">
+                                    <name>Red</name>
+                                </item>
+                                <item id="green">
+                                    <name>Green</name>
+                                </item>
+                                <item id="blue">
+                                    <name>Blue</name>
+                                </item>
+                            </variants>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    settings sample end -->
+</addon>
